@@ -1,0 +1,27 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "Nháº­p  x, y: " 4 times.(ˆÕ›ıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä«¬
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØæòÆ
+W
+java:S1659"ADeclare "tong" and all following declarations on a separate line.(Ğ¢‘
+?
+java:S1481")Remove this unused "tong" local variable.(Ğ¢‘
+?
+java:S1481")Remove this unused "hieu" local variable.(Ğ¢‘
+?
+java:S1481")Remove this unused "tich" local variable.(Ğ¢‘
+A
+java:S1481"+Remove this unused "thuong" local variable.(Ğ¢‘
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(÷äÓû
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Öâİò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÕ›ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨ŒÊªüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÕ›ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÁ€ìúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÕ›ıÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ìÊòã
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆÕ›ıÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Åàªš
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Àü•å
