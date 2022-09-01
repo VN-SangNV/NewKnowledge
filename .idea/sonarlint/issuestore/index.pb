@@ -9,8 +9,6 @@ R
 "src/String_Chuoi/String_Chuoi.java,0\b\0b7976b513dbcf2b285c9ce1584def4e35ad77bb
 D
 src/While/While.java,2\1\2167fdb5250a27314750ba39634c985c9da28a7b
-D
-src/Array/Array.java,b\2\b2fcd89176c2920ec6545705ca8258c9291cebf1
 J
 src/For_each/For_each.java,4\3\437059aac8869b88fb64059d412872642f092992
 H
