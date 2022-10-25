@@ -11,6 +11,9 @@ public class Methods {
 
         int max = findMax(numbers);
         System.out.println("Max = " + max);
+
+        addMulti(numbers);
+        addMulti(12, 123, 234, 456);
     }
 
 //    public static String contact(String[] name, int[] number){
@@ -48,5 +51,12 @@ public class Methods {
     }
     public static void hello(){
         System.out.println("Xin chào! Đây là phương thức từ class Methods!");
+    }
+    public static void addMulti(int...array){
+        int sum = 0;
+        for(int arr: array){
+            sum += arr;
+        }
+        System.out.println("MultiSum = " + sum);
     }
 }
