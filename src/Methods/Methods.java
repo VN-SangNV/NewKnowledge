@@ -59,4 +59,12 @@ public class Methods {
         }
         System.out.println("MultiSum = " + sum);
     }
+
+    public static int sumInt(int...number){
+        int sum = 0;
+        for(int num: number){
+            sum += num;
+        }
+        return sum;
+    }
 }
